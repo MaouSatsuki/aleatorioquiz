@@ -170,7 +170,7 @@ int main()
                 inv = inv + 1;
              }
 
-             std::cout << "\n\nQuestao 4: Em que país se anda mais de bicicleta?";
+             std::cout << "\n\nQuestao 4: Em que pais se anda mais de bicicleta?";
              std::cout << "\n\n(1) Brasil \n(2) EUA \n(3) Mexico \n(4) Italia \n(5) Paises Baixos\n\n";
              std::cin >> x;
              if (x == 5)
@@ -189,7 +189,7 @@ int main()
                 inv = inv + 1;
              }
 
-             std::cout << "\n\nQuestao 5: Que líder mundial ficou conhecida como Dama de Ferro?";
+             std::cout << "\n\nQuestao 5: Que lider mundial ficou conhecida como Dama de Ferro?";
              std::cout << "\n\n(1) Dilma Rouseff \n(2) Angela Merkel \n(3) Hillary Clinton \n(4) Margaret Thatcher \n(5) Christine Lagarde\n\n";
              std::cin >> x;
              if (x == 4)
